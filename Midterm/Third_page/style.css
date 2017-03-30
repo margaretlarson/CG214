@@ -1,0 +1,22 @@
+img{
+    width: 100px;
+    height:90px;
+}
+
+th{
+    font-size: 2em;
+    background-color: #cfdef7;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: silver;
+}
+
+table{
+    background-color: white;
+    width:60%;
+}
+
