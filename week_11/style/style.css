@@ -1,0 +1,73 @@
+#main logo{
+    width:150px;
+    margin-top:15px;
+    display:inline-block 
+}
+
+#search{
+    width:100px;
+    height:20px;
+    display: inline-block;
+    color:white;
+    position:relative;
+    left:300px;
+    top:-40px;
+    }
+
+#searchbox{
+    width:100px;
+    height:1000px;
+    border:2px solid border;
+}
+
+#loginButtons {
+    display: inline-block;
+    height: 20px;
+    position: relative;
+    top: -145px;
+    left: 50%;
+}
+
+button{
+    font-size: 14px;
+    margin-left:10px;
+    margin-right: 10px;
+    height: 100%;
+    color: black;
+    border-style: none;
+    background: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.signin {
+    color: black;
+    background:white;
+}
+
+#profile{
+    width:100px;
+    height:100px;
+    display: inline-block;
+    color:white;
+    position:relative;
+   right:250px;
+    top:10px;
+    }
+
+#container {
+    display: inline-block;
+    height: 20px;
+    position: relative;
+    top: -80px;
+    left: 20%;
+}
+ 
+#bottom{
+     display: inline-block;
+    height: 10px;
+    position: relative;
+    top:70px;
+    left:9%
+    
+}
