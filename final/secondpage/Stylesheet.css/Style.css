@@ -1,0 +1,90 @@
+
+
+#mainlogo{
+    width:600px;
+    height: 450px;
+    display: inline-block;
+     position:relative;
+    top:10px;
+    left:155px;
+   
+}
+
+ h3 { 
+    display:inherit;
+    color: white;
+    font-size: 1.5em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    }
+h4{
+    display: inherit;
+    color:white;
+    font-size:20px;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+#navbar{
+    display: inline-block;
+    height: 20px;
+    position: relative;
+    top: 30px;
+    left: 50%;
+}
+
+div.hr {
+position: relative;
+top:40px;
+
+}
+
+.div1 {
+	 background-color: #3a3a3a;
+	 color: white;
+	 width: 50px;
+	 height: 30px;
+	 display: inline-block;
+     position:relative;
+     top:20px;
+     left:-300px;
+     cursor: pointer;
+   }
+
+.div2 {
+	 background-color: #3a3a3a;
+	 color: white;
+	 width: 50px;
+	 height: 30px;
+	 display: inline-block;
+    position:relative;
+     top:20px;
+    left:-200px;
+     cursor: pointer;
+    }
+
+.div3 {
+	 background-color: #3a3a3a;
+	 color: white;
+	 width: 50px;
+	 height: 30px;
+	 display: inline-block;
+    position:relative;
+     top:20px;
+    left:-90px;
+     cursor: pointer;
+    }
+
+.div4 {
+	 background-color: #3a3a3a;
+	 color: white;
+	 width: 50px;
+	 height: 30px;
+	 display: inline-block;
+    position:relative;
+     top:20px;
+    left:20px;
+     cursor: pointer;
+    }

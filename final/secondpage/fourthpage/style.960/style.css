@@ -1,0 +1,63 @@
+
+
+.container_12 {
+    background: #ededed;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    line-height: 250px;
+    height: 100%;
+}
+
+#one, #two, #three {
+    background-color: #00B2CA;
+    height: 150px;
+}
+
+#four, #five  {
+    background-color: #1D4E89;
+    height: 150px;
+    margin-top: px;
+}
+
+#six,#seven { 
+    background-color: #F79256;
+    height: 150px;
+    margin-top: 60px;
+}
+
+#eight, #nine, #ten{
+    background-color: #3a3a3a;
+    height: 150px;
+    margin-top:60px;
+}
+#eleven, #twelve {
+background-color: #7DCFB6;
+    height: 150px;
+    margin-top: 60px;
+}
+
+#thirteen, #fourteen, #fifteen {
+background-color: #7DCFB6;
+    height: 150px;
+    margin-top: 60px;
+}
+
+#sixteen, #seventeen {
+background-color: #7DCFB6;
+    height: 150px;
+    margin-top: 60px;
+}
+
+#eighteen, #nineteen, #twenty {
+background-color: #7DCFB6;
+    height: 150px;
+    margin-top: 60px;
+}
+
+
+#twentyone, #twentytwo, #twentythree {
+background-color: #7DCFB6;
+height: 150px;
+margin-top: 60px;
+}
